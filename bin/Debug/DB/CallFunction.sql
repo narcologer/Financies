@@ -1,0 +1,1 @@
+Select * from CurrencyRates where value=dbo.CurrencyByName('23.08.2019','Австралийский доллар')
