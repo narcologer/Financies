@@ -1,2 +1,2 @@
 # Financies
-Proper SQL scripts are in bin/debug!
+SQL scripts used by this application when running are in bin/debug!
